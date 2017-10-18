@@ -1,0 +1,1118 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"acce",
+				"access_name"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"side",
+				"sidebar-wrapper"
+			],
+			[
+				"case",
+				"casetype"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"daily",
+				"dailyPatients"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"Patient",
+				"Patient_transaction"
+			],
+			[
+				"uid",
+				"uid_patient"
+			],
+			[
+				"array_f",
+				"array_filter"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Patien",
+				"Patient_service"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"patient",
+				"patient_services"
+			],
+			[
+				"patie",
+				"patient_services"
+			],
+			[
+				"Pa",
+				"Patient_service"
+			],
+			[
+				"pati",
+				"patient_treatment"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"card",
+				"card-outine-secondary"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"backgriu",
+				"background-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"list-inline",
+				"list-inline-item"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"Sour",
+				"SourceSansProRegular"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"Harabara",
+				"HarabaraMais"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 807,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/users/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 2274,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 2849,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "sta",
+		"selected_items":
+		[
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Resour",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package resou",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL PACKAGE ",
+				"Package Control: Install Package"
+			],
+			[
+				"COLOR",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"COLORS",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 454.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/cfradmin",
+		"/C/xampp/htdocs/cfradmin/app",
+		"/C/xampp/htdocs/cfradmin/app/Exceptions",
+		"/C/xampp/htdocs/cfradmin/app/Http",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/Auth",
+		"/C/xampp/htdocs/cfradmin/app/Providers",
+		"/C/xampp/htdocs/cfradmin/database",
+		"/C/xampp/htdocs/cfradmin/database/migrations",
+		"/C/xampp/htdocs/cfradmin/database/seeds",
+		"/C/xampp/htdocs/cfradmin/resources",
+		"/C/xampp/htdocs/cfradmin/resources/views",
+		"/C/xampp/htdocs/cfradmin/resources/views/users",
+		"/C/xampp/htdocs/cfradmin/routes"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/cfradmin/database/seeds/AccessUserTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/AccessesTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/UsersTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/PatientController.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/create.blade.php",
+		"/C/xampp/htdocs/cfradmin/app/Access_User.php",
+		"/C/xampp/htdocs/cfradmin/app/Access.php",
+		"/C/xampp/htdocs/cfradmin/app/User.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient_service.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient_transaction.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/layouts/admin.blade.php",
+		"/C/xampp/htdocs/cfradmin/routes/web.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/home.blade.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/Insurance.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/District.php",
+		"/C/xampp/htdocs/safefocus/resources/views/patients/index.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/index.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/services/show.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/reports/index.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/services/index.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/dashboard.blade.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/AccessController.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/AccessTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2017_10_13_154502_create_access_users_table.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/AccessUsersTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2017_10_13_152300_create_access_table.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/auth/change.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/services/edit.blade.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/ServiceController.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/safefocus/resources/views/patients/create.blade.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/xampp/htdocs/cfradmin/.env",
+		"/C/xampp/htdocs/safefocus/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/safefocus/database/seeds/ServicesTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/users_table_seeder.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2017_10_13_154502_create_roles_table.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/cfradmin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/layout.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/xampp/htdocs/cfradmin/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/safefocus/config/database.php",
+		"/C/xampp/htdocs/safefocus/.env",
+		"/C/Users/Kizito/Downloads/Opensrp/opensrp-server_20171002/opensrp-server/opensrp-connector/src/main/java/org/opensrp/connector/openmrs/service/OpenmrsUserService.java",
+		"/C/Users/Kizito/Downloads/Opensrp/opensrp-server_20171002/opensrp-server/opensrp-web/src/main/resources/quartz.properties",
+		"/C/Users/Kizito/Downloads/Opensrp/opensrp-server/assets/config/opensrp.properties",
+		"/C/Users/Kizito/Downloads/Opensrp/opensrp-server/assets/config/couchdb.properties",
+		"/C/Users/Kizito/Downloads/Opensrp/opensrp-server/assets/config/activemq.properties",
+		"/C/Users/Kizito/Downloads/UNFPA-Midwifery-Training/Android Apps/Decompiled/Postpartum_Hemorrhage/assets/www/UN/Scripts/engine/myScreenxmls.js",
+		"/C/xampp/htdocs/alpha/app/Shop.php",
+		"/C/xampp/htdocs/alpha/app/Http/Controllers/shopsController.php",
+		"/C/xampp/htdocs/alpha/resources/views/create.blade.php",
+		"/C/xampp/htdocs/alpha/resources/views/index.blade.php",
+		"/C/xampp/htdocs/alpha/routes/web.php",
+		"/C/Users/Kizito/Downloads/UNFPA-Midwifery-Training/Android Apps/Decompiled/Postpartum_Hemorrhage/assets/www/UN/index.html",
+		"/C/Users/Kizito/Downloads/UNFPA-Midwifery-Training/Android Apps/apktool.bat",
+		"/C/Users/Kizito/Downloads/UNFPA-Midwifery-Training/Android Apps/Modded/danger/assets/mediaContent/data/content_22116_data.js",
+		"/C/Users/Kizito/Downloads/UNFPA-Midwifery-Training/Android Apps/Modded/decompiled/danger/assets/mediaContent/data/content_22116_data.js",
+		"/C/Users/Kizito/Downloads/UNFPA-Midwifery-Training/Android Apps/Modded/decompiled/danger/assets/mediaContent/data/content_22720_data.js",
+		"/C/Users/Kizito/Downloads/UNFPA-Midwifery-Training/Android Apps/Modded/decompiled/danger/assets/mediaContent/data/course_structure_json_data.js",
+		"/C/Users/Kizito/Downloads/UNFPA-Midwifery-Training/Android Apps/Modded/AndroidManifest.xml",
+		"/C/xampp/htdocs/alpha/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/alpha/database/migrations/2017_08_27_162455_create_table_shops.php",
+		"/C/xampp/htdocs/alpha/app/User.php",
+		"/C/xampp/htdocs/alpha/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/alpha/.env",
+		"/C/Users/Kizito/Documents/fire.html",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/TreatmentController.php",
+		"/C/xampp/htdocs/safefocus/resources/views/treatments/index.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/treatments/edit.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/investigations/create.blade.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/ReportController.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/TestController.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/InsuranceController.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/InvestigationController.php",
+		"/C/xampp/htdocs/safefocus/storage/framework/views/b6ed38e1a635639ca73cfde3069aed7a30f23244.php",
+		"/C/xampp/htdocs/safefocus/routes/web.php",
+		"/C/xampp/htdocs/safefocus/resources/views/layouts/dashboard.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/static/settings.blade.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_08_11_111204_create_files_table.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/File.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_06_30_083159_create_services_table.php",
+		"/C/xampp/htdocs/safefocus/storage/app/logos/t3vQqRiqlnT7t2YKjBYBud9a9Dcxm9bQENDfVq3p.png",
+		"/C/xampp/htdocs/safefocus/resources/views/treatments/create.blade.php",
+		"/C/xampp/htdocs/safefocus/database/seeds/DistrictsTableSeeder.php",
+		"/C/xampp/htdocs/safefocus/database/seeds/RegionsTableSeeder.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_01_183634_create_transactions_table.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_04_162409_create_patient_treatments_table.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_05_112702_create_patient_services_table.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_05_130234_create_patient_investigations_table.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_19_112415_create_patient_insuraces_table.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_19_165338_create_payments_table.php",
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_08_08_104118_create_role_user_table.php",
+		"/C/xampp/htdocs/safefocus/resources/views/static/welcome.blade.php",
+		"/C/xampp/htdocs/safefocus/public/css/custom/loader.css",
+		"/C/xampp/htdocs/safefocus/public/css/custom/bar.css",
+		"/C/Users/Kizito/Downloads/Gear.svg",
+		"/C/xampp/htdocs/safefocus/storage/framework/views/174595be370c05fe2de1155e48a335d9f22ff441.php",
+		"/C/xampp/htdocs/safefocus/public/js/custom/add_treatment_field.js",
+		"/C/xampp/htdocs/safefocus/app/Console/Kernel.php",
+		"/C/xampp/htdocs/safefocus/database/seeds/InvestigationsTableSeeder.php",
+		"/C/xampp/htdocs/safefocus/database/seeds/TreatmentsTableSeeder.php",
+		"/C/xampp/htdocs/safefocus/database/seeds/sql/treatments.sql",
+		"/C/xampp/htdocs/safefocus/public/sql/treatments.sql",
+		"/C/xampp/htdocs/safefocus/app/Console/Commands/CreateDatabase.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/htdocs/safefocus/vendor/symfony/http-kernel/Event/FilterControllerEvent.php",
+		"/C/xampp/htdocs/safefocus/resources/views/investigations/index.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/reports/full.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/patients/show.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/layouts/old.dashboard.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/safefocus/public/js/paper/jquery.sharrre.js",
+		"/C/xampp/htdocs/safefocus/public/js/paper/fixes-ui.js",
+		"/C/xampp/htdocs/safefocus/public/js/vendors/app.js",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/xampp/htdocs/safefocus/resources/views/tests/index.blade.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\cfradmin",
+			"C:\\Users\\Kizito\\Downloads\\Opensrp\\opensrp-server_20171002\\opensrp-server",
+			"C:\\Users\\Kizito\\Downloads\\Opensrp\\opensrp-server",
+			"C:\\xampp\\htdocs\\safefocus\\app\\Http\\Controllers",
+			"C:\\xampp\\htdocs\\safefocus",
+			"C:\\xampp\\htdocs\\safefocus\\app\\Http\\Controllers",
+			"C:\\xampp\\htdocs\\safefocus\\app\\Http\\Models",
+			"C:\\xampp\\htdocs\\safefocus",
+			"C:\\xampp\\htdocs\\safefocus\\app\\Http\\Models",
+			"C:\\xampp\\htdocs\\safefocus\\app",
+			"C:\\xampp\\htdocs\\safefocus\\app\\Http",
+			"C:\\xampp\\htdocs\\safefocus\\app",
+			"C:\\xampp\\htdocs\\safefocus",
+			"C:\\xampp\\htdocs\\petesblog",
+			"C:\\xampp\\htdocs\\angularapi",
+			"C:\\xampp\\htdocs\\petesblog",
+			"C:\\xampp\\htdocs\\mshande",
+			"C:\\xampp\\htdocs\\payroll"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"surname",
+			"sur",
+			"surname",
+			"firstmane",
+			"mane",
+			"first",
+			">first",
+			"gmail.com",
+			"first",
+			"second",
+			"Second",
+			"second",
+			"first",
+			"Acc",
+			"CreateAccessTable",
+			"CreateAaccessTable",
+			"service",
+			"services",
+			"user",
+			"confirm",
+			"user",
+			"confirm",
+			"password",
+			"Password",
+			"password",
+			"username",
+			"Username",
+			"username",
+			"'password' => bcrypt(1234),",
+			"7",
+			"str_random(10).",
+			"4",
+			"users",
+			"1",
+			"logou",
+			"dar_es_sa",
+			"arusha",
+			"  ",
+			" |\n| ",
+			",\n",
+			"email",
+			"AppServiceProvider",
+			"hibernate",
+			"ws/atomfeed/",
+			"ws/atomfeed/OpenSRP_Patient/recent.form",
+			"FormSubmissionDataMigrationIntegrationTest",
+			"openmrs.url",
+			"username=",
+			"username",
+			"you will need speakers",
+			"The first activity you will",
+			"welco",
+			"Intro",
+			"What",
+			"Langua",
+			"Language",
+			"Priva",
+			"introduce",
+			"it is ",
+			"danger",
+			"namespace App\\Http\\Controllers;",
+			"$count = Patient::where('status', 1)->count();",
+			"with('count', $count)",
+			"loader",
+			"seed",
+			"\"",
+			"($",
+			"welcome",
+			"asset",
+			"}}\"",
+			"=\"{{",
+			"trans",
+			"returning",
+			"payment",
+			"cardnumber",
+			"payment",
+			"number",
+			"service",
+			"password_confirmatio",
+			"insurance",
+			"Insurance",
+			"insurance",
+			"cash",
+			"’",
+			"‘",
+			"employee",
+			"manager",
+			"employee",
+			"manager",
+			"’",
+			"‘",
+			"manager",
+			"employee",
+			"’",
+			"‘",
+			"patient/release",
+			"name",
+			"INFUSIONS",
+			"ANTIMALARIAL",
+			"ANTIBIOTICS",
+			"created_at",
+			");",
+			"Procedures",
+			"type)",
+			");",
+			"price",
+			", ,",
+			"INFU",
+			"CHLOR",
+			"\",,",
+			",,)",
+			",,\"",
+			" \"",
+			"`\",,",
+			",,`,",
+			",\"\"\"\"",
+			"(\",\"\"\"\",",
+			"\"insert",
+			",",
+			"(\"\"\"\",",
+			"(,",
+			"(\"",
+			"\"INSERT",
+			";",
+			",",
+			", ",
+			" ,",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"namespace App\\Http\\Controllers;\nuse App\\Http\\Models\\File;",
+			"namespace App\\Http\\Controllers;\nuse App\\Http\\Models\\File",
+			"$count = Patient::where('status', 1)->count();\n$logo = File::where('name', 'logo')->first();",
+			"with('count', $count)->with('logo', $logo)",
+			"'",
+			"Infusions",
+			"Antimalarial",
+			"Antibiotics",
+			"created_at, user",
+			", \"Administrator\");",
+			"\"Procedures\"",
+			"type, created_at)",
+			", \"2017-08-02 13:06:18\");",
+			"\", \"",
+			"\", ",
+			"\",",
+			")",
+			", \"",
+			"\"",
+			", \"",
+			", ",
+			"\",",
+			"(\"",
+			"INSERT",
+			"(\"",
+			"(",
+			"INSERT",
+			", ",
+			",",
+			")",
+			"(",
+			"",
+			"$count = Patient::where('status', 1)->count();",
+			"App\\Http\\Models\\Treatment",
+			"App\\Http\\Models\\Service",
+			"App\\Http\\Models\\Patient_treatment",
+			"App\\Http\\Models\\Patient_insurance",
+			"App\\Http\\Models\\Patient",
+			"App\\Http\\Models\\Investigation",
+			"App\\Http\\Models\\Insurance",
+			"App\\Http\\Models\\Treatment",
+			"App\\Http\\Models\\Service",
+			"App\\Http\\Models\\Patient_treatment",
+			"App\\Http\\Models\\Patient_transaction",
+			"App\\Http\\Models\\Patient_service",
+			"App\\Http\\Models\\Patient_payment",
+			"App\\Http\\Models\\Patient_investigation",
+			"App\\Http\\Models\\Patient_insurance",
+			"App\\Http\\Models\\Investigation",
+			"App\\Http\\Models\\Insurance",
+			"App\\Http\\Models\\Patient",
+			"namespace App",
+			"namespaceApp\\Http\\Models",
+			"use App\\Http\\Models\\Service",
+			"use App\\Http\\Models\\Patient_transaction",
+			"use App\\Http\\Models\\Patient_service",
+			"use App\\Http\\Models\\Patient_investigation",
+			"use App\\Http\\Models\\Patient_insurance",
+			"use App\\Http\\Models\\Patient",
+			"use App\\Http\\Models\\Investigation",
+			"use App\\Http\\Models\\Insurance",
+			"",
+			"UPDATE",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								691,
+								696
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/users/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1264,
+								1264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 726.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 162.0
+	},
+	"pinned_build_system": "",
+	"project": "cfr.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"userco",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"userstab",
+				"database\\seeds\\UsersTableSeeder.php"
+			],
+			[
+				"create_user",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"accest",
+				"database\\seeds\\AccessesTableSeeder.php"
+			],
+			[
+				"accessta",
+				"database\\seeds\\AccessesTableSeeder.php"
+			],
+			[
+				"accessuser",
+				"database\\seeds\\AccessUserTableSeeder.php"
+			],
+			[
+				"users",
+				"database\\seeds\\UsersTableSeeder.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"admin",
+				"resources\\views\\layouts\\admin.blade.php"
+			],
+			[
+				"index",
+				"resources\\views\\users\\index.blade.php"
+			],
+			[
+				"homec",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"login",
+				"app\\Http\\Controllers\\Auth\\LoginController.php"
+			],
+			[
+				"home.b",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"loginc",
+				"app\\Http\\Controllers\\Auth\\LoginController.php"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"dash",
+				"resources\\views\\dashboard.blade.php"
+			],
+			[
+				"app.b",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"home",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"dashbo",
+				"resources\\views\\dashboard.blade.php"
+			],
+			[
+				"wel",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"layo",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\views\\layout.blade.php"
+			],
+			[
+				"dashboa",
+				"resources\\views\\dashboard.blade.php"
+			],
+			[
+				"homecon",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"login.bl",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"appservice",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"routes/we",
+				"routes\\web.php"
+			],
+			[
+				"treatcon",
+				"app\\Http\\Controllers\\TreatmentController.php"
+			],
+			[
+				"trecon",
+				"vendor\\symfony\\http-kernel\\Event\\FilterControllerEvent.php"
+			],
+			[
+				"invcon",
+				"app\\Http\\Controllers\\InvestigationController.php"
+			],
+			[
+				"invesind",
+				"resources\\views\\investigations\\index.blade.php"
+			],
+			[
+				"investiga",
+				"app\\Http\\Controllers\\InvestigationController.php"
+			],
+			[
+				"treatment/ind",
+				"resources\\views\\treatments\\index.blade.php"
+			],
+			[
+				"trea",
+				"app\\Http\\Controllers\\TreatmentController.php"
+			],
+			[
+				"full",
+				"resources\\views\\reports\\full.blade.php"
+			],
+			[
+				"report",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"patientco",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"show",
+				"resources\\views\\patients\\show.blade.php"
+			],
+			[
+				"patientc",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"user",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"reports/inde",
+				"resources\\views\\reports\\index.blade.php"
+			],
+			[
+				"app.js",
+				"public\\js\\vendors\\app.js"
+			],
+			[
+				"dashboard",
+				"resources\\views\\layouts\\dashboard.blade.php"
+			],
+			[
+				"route/web",
+				"routes\\web.php"
+			],
+			[
+				"reportco",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"reports/index",
+				"resources\\views\\reports\\index.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\patients\\create.blade.php"
+			],
+			[
+				"",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"app.component.ts",
+				"heroes\\app\\app.component.ts"
+			],
+			[
+				"main.ts",
+				"heroes\\app\\main.ts"
+			],
+			[
+				"8af7404c24ee02273ec2268fac1d2c73b6f18e4b",
+				"storage\\framework\\views\\8af7404c24ee02273ec2268fac1d2c73b6f18e4b.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "transaction",
+		"selected_items":
+		[
+			[
+				"transaction",
+				"transaction"
+			]
+		],
+		"width": 998.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
