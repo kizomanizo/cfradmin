@@ -17,8 +17,7 @@
                                         <th>Email</th>
                                         <th>Access</th>
                                         <th>Status</th>
-                                        <th>Edit</th>
-                                        <th>Delete</th>
+                                        <th>View</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -33,8 +32,7 @@
                                             @endforeach
                                         </td>
                                         <td class="center">{{ $user->status }}</td>
-                                        <td>Edit</td>
-                                        <td>Delete</td>
+                                        <td><a href="{{ url('users/'.$user->id) }}">View</a></td>
                                     </tr>
                                     @endforeach
                                 </tbody>

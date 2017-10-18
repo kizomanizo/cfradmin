@@ -171,31 +171,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "routes/web.php",
-			"settings":
-			{
-				"buffer_size": 807,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/users/index.blade.php",
-			"settings":
-			{
-				"buffer_size": 2274,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/UserController.php",
-			"settings":
-			{
-				"buffer_size": 2849,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -204,7 +179,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 354.0,
+		"height": 50.0,
 		"last_filter": "sta",
 		"selected_items":
 		[
@@ -309,7 +284,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 454.0
+		"width": 374.0
 	},
 	"console":
 	{
@@ -342,15 +317,19 @@
 		"/C/xampp/htdocs/cfradmin/database/seeds",
 		"/C/xampp/htdocs/cfradmin/resources",
 		"/C/xampp/htdocs/cfradmin/resources/views",
-		"/C/xampp/htdocs/cfradmin/resources/views/users",
+		"/C/xampp/htdocs/cfradmin/resources/views/static",
 		"/C/xampp/htdocs/cfradmin/routes"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/cfradmin/routes/web.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/show.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/static/welcome.blade.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/HomeController.php",
 		"/C/xampp/htdocs/cfradmin/database/seeds/AccessUserTableSeeder.php",
 		"/C/xampp/htdocs/cfradmin/database/seeds/AccessesTableSeeder.php",
 		"/C/xampp/htdocs/cfradmin/database/seeds/UsersTableSeeder.php",
-		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/UserController.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Controllers/PatientController.php",
 		"/C/xampp/htdocs/cfradmin/database/migrations/2014_10_12_000000_create_users_table.php",
@@ -361,8 +340,6 @@
 		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient_service.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient_transaction.php",
 		"/C/xampp/htdocs/cfradmin/resources/views/layouts/admin.blade.php",
-		"/C/xampp/htdocs/cfradmin/routes/web.php",
-		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/HomeController.php",
 		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/Auth/LoginController.php",
 		"/C/xampp/htdocs/cfradmin/resources/views/home.blade.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Models/Insurance.php",
@@ -472,13 +449,11 @@
 		"/C/xampp/htdocs/safefocus/resources/views/auth/login.blade.php",
 		"/C/xampp/htdocs/safefocus/public/js/paper/jquery.sharrre.js",
 		"/C/xampp/htdocs/safefocus/public/js/paper/fixes-ui.js",
-		"/C/xampp/htdocs/safefocus/public/js/vendors/app.js",
-		"/C/xampp/htdocs/safefocus/app/Http/Controllers/Auth/ResetPasswordController.php",
-		"/C/xampp/htdocs/safefocus/resources/views/tests/index.blade.php"
+		"/C/xampp/htdocs/safefocus/public/js/vendors/app.js"
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -510,6 +485,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"secondary",
+			"h3",
+			"</small>",
+			"<small>",
 			"surname",
 			"sur",
 			"surname",
@@ -633,11 +612,7 @@
 			"(,",
 			"(\"",
 			"\"INSERT",
-			";",
-			",",
-			", ",
-			" ,",
-			"  "
+			";"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -719,103 +694,14 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "routes/web.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 807,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								691,
-								696
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "resources/views/users/index.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2274,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1264,
-								1264
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 132.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/Http/Controllers/UserController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2849,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 726.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -860,7 +746,7 @@
 	"project": "cfr.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -869,6 +755,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"homec",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
 			[
 				"userco",
 				"app\\Http\\Controllers\\UserController.php"
@@ -908,10 +798,6 @@
 			[
 				"index",
 				"resources\\views\\users\\index.blade.php"
-			],
-			[
-				"homec",
-				"app\\Http\\Controllers\\HomeController.php"
 			],
 			[
 				"login",
@@ -1109,7 +995,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 227.0,
 	"status_bar_visible": true,
 	"template_settings":

@@ -12,7 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('static.welcome');
+    return view('static.welcome')->name('welcome');
+});
+
+Route::get('/home', function () {
+    return redirect()->route('dashboard');
 });
 
 Auth::routes();
