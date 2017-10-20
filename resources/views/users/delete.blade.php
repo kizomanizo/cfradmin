@@ -2,7 +2,7 @@
             @section('content')
             <div class="row">
                 <div class="col-lg-12">
-                    <h3 class="page-header">All Users</h3>
+                    <h3 class="page-header">User Activation</h3>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
@@ -13,32 +13,28 @@
                                 <thead>
                                     <tr>
                                         <th>Full Name</th>
-                                        <th>Username</th>
-                                        <th>Email</th>
-                                        <th>Role</th>
                                         <th>Status</th>
-                                        <th>View</th>
+                                        <th>Delete</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     @foreach($users as $user)
                                     <tr class="odd gradeX">
                                         <td>{{ $user->firstname.' '.$user->surname.' '.substr($user->secondname, 0, 1).'.' }}</td>
-                                        <td>{{ $user->username }}</td>
-                                        <td>{{ $user->email }}</td>
+                                        <td>{{ $user->status }}</td>
                                         <td class="center">
-                                            @foreach($user->roles as $role)
-                                                {{ $role->name }}
-                                            @endforeach
+                                            <form method="POST" action="{{ url('users/'.$user->id.'/purge') }}">
+                                                {{ csrf_field() }}
+                                                <button type="submit" class="btn btn-danger">Permanent Delete</button>
+                                            </form>
                                         </td>
-                                        <td class="center">{{ $user->status }}</td>
-                                        <td><a href="{{ url('users/'.$user->id) }}">View</a></td>
+
                                     </tr>
                                     @endforeach
                                 </tbody>
                             </table>
-                            <!-- /.table-responsive -->
                             {{ $users->links() }}
+                            <!-- /.table-responsive -->
             </div>
                 
             <!-- /.panel-body -->

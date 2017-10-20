@@ -85,12 +85,6 @@
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
                         <li>
-                            <a href="{{ url('dashboard') }}"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
-                        </li>
-                        <li>
-                            <a href="{{ url('settings') }}"><i class="fa fa-cogs fa-fw"></i> Settings</a>
-                        </li>
-                        <li>
                             <a href="{{ url('results') }}"><i class="fa fa-sort-numeric-asc fa-fw"></i> Results</a>
                         </li>
                         <li>
@@ -99,18 +93,7 @@
                         <li>
                             <a href="{{ url('reports') }}"><i class="fa fa-bar-chart fa-fw"></i> Reports</a>
                         </li>
-                        <li>
-                            <a href="#"><i class="fa fa-user fa-fw"></i> Users<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a href="{{ url('users') }}">List Users</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url('users/create') }}">Add Users</a>
-                                </li>
-                            </ul>
-                            <!-- /.nav-second-level -->
-                        </li>
+
                     </ul>
                 </div>
                 <!-- /.sidebar-collapse -->

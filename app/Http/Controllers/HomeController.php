@@ -23,14 +23,26 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Request $request)
     {
-        return view('static.dashboard');
+        // return view('static.dashboard');
+        if ($request->user()->hasRole(1)) {
+            return view('static.dashboard');  
+        }
+        else {
+            return view('static.dashboard_user');
+        }
     }
 
-    public function dashboard()
+    public function dashboard(Request $request)
     {
-        return view('static.dashboard');
+        // return view('static.dashboard');
+        if ($request->user()->hasRole(1)) {
+            return view('static.dashboard');  
+        }
+        else {
+            return view('static.dashboard_user');
+        }
     }
 
     public function change()

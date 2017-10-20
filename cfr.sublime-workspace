@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"Access",
+				"Access_User"
+			],
+			[
+				"access",
+				"access_user"
+			],
+			[
+				"acces",
+				"access_user"
+			],
+			[
 				"acce",
 				"access_name"
 			],
@@ -171,6 +183,15 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "█ [ C:\\xampp\\htdocs\\cfradmin ] git add .\nwarning: LF will be replaced by CRLF in app/Http/Controllers/Auth/LoginController.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in app/Http/Controllers/HomeController.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in app/Http/Controllers/UserController.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in app/User.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in cfr.sublime-workspace.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in database/migrations/2014_10_12_000000_create_users_table.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in database/seeds/DatabaseSeeder.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in database/seeds/UsersTableSeeder.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in resources/views/auth/change.blade.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in routes/web.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in app/Http/Controllers/RoleController.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in app/Role.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in app/Role_User.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in database/migrations/2017_10_13_152300_create_roles_table.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in database/migrations/2017_10_13_154502_create_role_user_table.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in database/seeds/RoleUserTableSeeder.php.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in database/seeds/RolesTableSeeder.php.\nThe file will have its original line endings in your working directory.\n\n█ [ C:\\xampp\\htdocs\\cfradmin ] git commit -m \"User auth with roles and soft deletion, recovery and purging\"\nerror: pathspec 'auth' did not match any file(s) known to git.\nerror: pathspec 'with' did not match any file(s) known to git.\nerror: pathspec 'roles' did not match any file(s) known to git.\nerror: pathspec 'and' did not match any file(s) known to git.\nerror: pathspec 'soft' did not match any file(s) known to git.\nerror: pathspec 'deletion,' did not match any file(s) known to git.\nerror: pathspec 'recovery' did not match any file(s) known to git.\nerror: pathspec 'and' did not match any file(s) known to git.\nerror: pathspec 'purging' did not match any file(s) known to git.\n\n█ [ C:\\xampp\\htdocs\\cfradmin ] git commit -m 'Complete auth with roles.'\nerror: pathspec 'auth' did not match any file(s) known to git.\nerror: pathspec 'with' did not match any file(s) known to git.\nerror: pathspec 'roles.' did not match any file(s) known to git.\n\n█ [ C:\\xampp\\htdocs\\cfradmin ] git push\nLogon failed, use ctrl+c to cancel basic credential prompt.\r\nbash: /dev/tty: No such device or address\nerror: failed to execute prompt script (exit code 1)\nfatal: could not read Username for 'https://github.com': No error\n\n█ [ C:\\xampp\\htdocs\\cfradmin ] git push\nLogon failed, use ctrl+c to cancel basic credential prompt.\r\nbash: /dev/tty: No such device or address\nerror: failed to execute prompt script (exit code 1)\nfatal: could not read Username for 'https://github.com': No error\n\n█ [ C:\\xampp\\htdocs\\cfradmin ] git push\nEverything up-to-date\n\n█ [ C:\\xampp\\htdocs\\cfradmin ] git add .\n\n",
+			"settings":
+			{
+				"buffer_size": 4163,
+				"line_ending": "Windows",
+				"name": "terminal.glue"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -179,10 +200,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 50.0,
-		"last_filter": "sta",
+		"height": 354.0,
+		"last_filter": "glue",
 		"selected_items":
 		[
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"sta",
 				"Git: Status"
@@ -194,10 +223,6 @@
 			[
 				"status",
 				"Git: Status"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"settin",
@@ -284,7 +309,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 374.0
+		"width": 536.0
 	},
 	"console":
 	{
@@ -307,62 +332,83 @@
 	[
 		"/C/xampp/htdocs/cfradmin",
 		"/C/xampp/htdocs/cfradmin/app",
-		"/C/xampp/htdocs/cfradmin/app/Exceptions",
 		"/C/xampp/htdocs/cfradmin/app/Http",
 		"/C/xampp/htdocs/cfradmin/app/Http/Controllers",
-		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/Auth",
-		"/C/xampp/htdocs/cfradmin/app/Providers",
-		"/C/xampp/htdocs/cfradmin/database",
-		"/C/xampp/htdocs/cfradmin/database/migrations",
-		"/C/xampp/htdocs/cfradmin/database/seeds",
 		"/C/xampp/htdocs/cfradmin/resources",
 		"/C/xampp/htdocs/cfradmin/resources/views",
-		"/C/xampp/htdocs/cfradmin/resources/views/static",
-		"/C/xampp/htdocs/cfradmin/routes"
+		"/C/xampp/htdocs/cfradmin/resources/views/roles",
+		"/C/xampp/htdocs/cfradmin/resources/views/users"
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/cfradmin/app/Role.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/RoleController.php",
 		"/C/xampp/htdocs/cfradmin/routes/web.php",
-		"/C/xampp/htdocs/cfradmin/resources/views/users/show.blade.php",
-		"/C/xampp/htdocs/cfradmin/resources/views/static/welcome.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/edit.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/roles/edit.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/create.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/roles/create.blade.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/static/dashboard.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/roles/deleted.blade.php",
+		"/C/xampp/htdocs/cfradmin/app/User.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/roles/show.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/services/index.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/roles/index.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/index.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/delete.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/list.blade.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/Auth/LoginController.php",
 		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/auth/change.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/show.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/activate.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/layouts/user.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/static/dashboard_user.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/users/indexuser.blade.php",
+		"/C/xampp/htdocs/safefocus/resources/views/treatments/index.blade.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/TreatmentController.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/Treatment.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/layouts/admin.blade.php",
+		"/C/xampp/htdocs/cfradmin/.env",
+		"/C/xampp/htdocs/cfradmin/database/seeds/UsersTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/RolesTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/app/Http/terminal.glue",
+		"/C/xampp/htdocs/cfradmin/app/terminal.glue",
+		"/C/xampp/htdocs/cfradmin/app/Role_User.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2017_10_13_152300_create_roles_table.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/RoleUserTableSeeder.php",
+		"/C/xampp/htdocs/cfradmin/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/cfradmin/database/migrations/2017_10_13_154502_create_role_user_table.php",
+		"/C/xampp/htdocs/cfradmin/app/Access_User.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/ServiceController.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Models/Service.php",
+		"/C/xampp/htdocs/safefocus/app/Http/Controllers/PatientController.php",
+		"/C/xampp/htdocs/cfradmin/vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php",
+		"/C/xampp/htdocs/safefocus/resources/views/services/edit.blade.php",
+		"/C/xampp/htdocs/cfradmin/resources/views/static/welcome.blade.php",
 		"/C/xampp/htdocs/cfradmin/database/seeds/AccessUserTableSeeder.php",
 		"/C/xampp/htdocs/cfradmin/database/seeds/AccessesTableSeeder.php",
-		"/C/xampp/htdocs/cfradmin/database/seeds/UsersTableSeeder.php",
-		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient.php",
-		"/C/xampp/htdocs/safefocus/app/Http/Controllers/PatientController.php",
-		"/C/xampp/htdocs/cfradmin/database/migrations/2014_10_12_000000_create_users_table.php",
-		"/C/xampp/htdocs/cfradmin/resources/views/users/create.blade.php",
-		"/C/xampp/htdocs/cfradmin/app/Access_User.php",
 		"/C/xampp/htdocs/cfradmin/app/Access.php",
-		"/C/xampp/htdocs/cfradmin/app/User.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient_service.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Models/Patient_transaction.php",
-		"/C/xampp/htdocs/cfradmin/resources/views/layouts/admin.blade.php",
-		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/Auth/LoginController.php",
 		"/C/xampp/htdocs/cfradmin/resources/views/home.blade.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Models/Insurance.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Models/District.php",
 		"/C/xampp/htdocs/safefocus/resources/views/patients/index.blade.php",
-		"/C/xampp/htdocs/cfradmin/resources/views/users/index.blade.php",
 		"/C/xampp/htdocs/safefocus/resources/views/services/show.blade.php",
 		"/C/xampp/htdocs/safefocus/resources/views/reports/index.blade.php",
-		"/C/xampp/htdocs/safefocus/resources/views/services/index.blade.php",
 		"/C/xampp/htdocs/cfradmin/resources/views/dashboard.blade.php",
-		"/C/xampp/htdocs/cfradmin/database/seeds/DatabaseSeeder.php",
 		"/C/xampp/htdocs/cfradmin/app/Http/Controllers/AccessController.php",
 		"/C/xampp/htdocs/cfradmin/database/seeds/AccessTableSeeder.php",
 		"/C/xampp/htdocs/cfradmin/database/migrations/2017_10_13_154502_create_access_users_table.php",
 		"/C/xampp/htdocs/cfradmin/database/seeds/AccessUsersTableSeeder.php",
 		"/C/xampp/htdocs/cfradmin/database/migrations/2017_10_13_152300_create_access_table.php",
-		"/C/xampp/htdocs/cfradmin/resources/views/auth/change.blade.php",
-		"/C/xampp/htdocs/safefocus/resources/views/services/edit.blade.php",
-		"/C/xampp/htdocs/safefocus/app/Http/Controllers/ServiceController.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Controllers/HomeController.php",
 		"/C/xampp/htdocs/safefocus/resources/views/patients/create.blade.php",
-		"/C/xampp/htdocs/cfradmin/database/migrations/2014_10_12_100000_create_password_resets_table.php",
-		"/C/xampp/htdocs/cfradmin/.env",
 		"/C/xampp/htdocs/safefocus/database/seeds/DatabaseSeeder.php",
 		"/C/xampp/htdocs/safefocus/database/seeds/ServicesTableSeeder.php",
 		"/C/xampp/htdocs/cfradmin/database/seeds/users_table_seeder.php",
@@ -400,8 +446,6 @@
 		"/C/xampp/htdocs/alpha/resources/views/welcome.blade.php",
 		"/C/xampp/htdocs/alpha/.env",
 		"/C/Users/Kizito/Documents/fire.html",
-		"/C/xampp/htdocs/safefocus/app/Http/Controllers/TreatmentController.php",
-		"/C/xampp/htdocs/safefocus/resources/views/treatments/index.blade.php",
 		"/C/xampp/htdocs/safefocus/resources/views/treatments/edit.blade.php",
 		"/C/xampp/htdocs/safefocus/resources/views/investigations/create.blade.php",
 		"/C/xampp/htdocs/safefocus/app/Http/Controllers/Controller.php",
@@ -424,32 +468,7 @@
 		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_01_183634_create_transactions_table.php",
 		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_04_162409_create_patient_treatments_table.php",
 		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_05_112702_create_patient_services_table.php",
-		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_05_130234_create_patient_investigations_table.php",
-		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_19_112415_create_patient_insuraces_table.php",
-		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_19_165338_create_payments_table.php",
-		"/C/xampp/htdocs/safefocus/database/migrations/2017_08_08_104118_create_role_user_table.php",
-		"/C/xampp/htdocs/safefocus/resources/views/static/welcome.blade.php",
-		"/C/xampp/htdocs/safefocus/public/css/custom/loader.css",
-		"/C/xampp/htdocs/safefocus/public/css/custom/bar.css",
-		"/C/Users/Kizito/Downloads/Gear.svg",
-		"/C/xampp/htdocs/safefocus/storage/framework/views/174595be370c05fe2de1155e48a335d9f22ff441.php",
-		"/C/xampp/htdocs/safefocus/public/js/custom/add_treatment_field.js",
-		"/C/xampp/htdocs/safefocus/app/Console/Kernel.php",
-		"/C/xampp/htdocs/safefocus/database/seeds/InvestigationsTableSeeder.php",
-		"/C/xampp/htdocs/safefocus/database/seeds/TreatmentsTableSeeder.php",
-		"/C/xampp/htdocs/safefocus/database/seeds/sql/treatments.sql",
-		"/C/xampp/htdocs/safefocus/public/sql/treatments.sql",
-		"/C/xampp/htdocs/safefocus/app/Console/Commands/CreateDatabase.php",
-		"/C/xampp/phpMyAdmin/config.inc.php",
-		"/C/xampp/htdocs/safefocus/vendor/symfony/http-kernel/Event/FilterControllerEvent.php",
-		"/C/xampp/htdocs/safefocus/resources/views/investigations/index.blade.php",
-		"/C/xampp/htdocs/safefocus/resources/views/reports/full.blade.php",
-		"/C/xampp/htdocs/safefocus/resources/views/patients/show.blade.php",
-		"/C/xampp/htdocs/safefocus/resources/views/layouts/old.dashboard.blade.php",
-		"/C/xampp/htdocs/safefocus/resources/views/auth/login.blade.php",
-		"/C/xampp/htdocs/safefocus/public/js/paper/jquery.sharrre.js",
-		"/C/xampp/htdocs/safefocus/public/js/paper/fixes-ui.js",
-		"/C/xampp/htdocs/safefocus/public/js/vendors/app.js"
+		"/C/xampp/htdocs/safefocus/database/migrations/2017_07_05_130234_create_patient_investigations_table.php"
 	],
 	"find":
 	{
@@ -485,6 +504,76 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Authentiacate",
+			"user",
+			"User",
+			"user",
+			"list",
+			"User",
+			"user",
+			"p>",
+			"user",
+			"surname",
+			"secondname",
+			"user",
+			"optionsRadios",
+			"secondname",
+			"firstname",
+			"user",
+			"$user",
+			"user",
+			"deactivate",
+			"activa",
+			"p>",
+			"recover",
+			"lease",
+			"suspend",
+			"list",
+			"suspend",
+			"->with('users', $users)",
+			"’",
+			"‘",
+			"Role_",
+			"role_",
+			"Role_",
+			"role_",
+			"Role_",
+			"role_",
+			"Role_",
+			"role_",
+			"Role_",
+			"role_",
+			"access",
+			"accesses",
+			"access",
+			"access_",
+			"Access_",
+			"access_",
+			"access_user",
+			"Access_User",
+			"access_user",
+			"access_",
+			"Access_",
+			"access_",
+			"Access_",
+			"access_",
+			"Access::",
+			"accesses",
+			"access_",
+			"accesses",
+			"'created_at' => date('Y-m-d h:m:s')",
+			"access_",
+			"access_id",
+			"access",
+			"access_id",
+			"access",
+			"access_user",
+			"accesses",
+			"access_user",
+			"$role",
+			"$roles",
+			"roles",
+			"old(",
 			"secondary",
 			"h3",
 			"</small>",
@@ -542,77 +631,7 @@
 			"The first activity you will",
 			"welco",
 			"Intro",
-			"What",
-			"Langua",
-			"Language",
-			"Priva",
-			"introduce",
-			"it is ",
-			"danger",
-			"namespace App\\Http\\Controllers;",
-			"$count = Patient::where('status', 1)->count();",
-			"with('count', $count)",
-			"loader",
-			"seed",
-			"\"",
-			"($",
-			"welcome",
-			"asset",
-			"}}\"",
-			"=\"{{",
-			"trans",
-			"returning",
-			"payment",
-			"cardnumber",
-			"payment",
-			"number",
-			"service",
-			"password_confirmatio",
-			"insurance",
-			"Insurance",
-			"insurance",
-			"cash",
-			"’",
-			"‘",
-			"employee",
-			"manager",
-			"employee",
-			"manager",
-			"’",
-			"‘",
-			"manager",
-			"employee",
-			"’",
-			"‘",
-			"patient/release",
-			"name",
-			"INFUSIONS",
-			"ANTIMALARIAL",
-			"ANTIBIOTICS",
-			"created_at",
-			");",
-			"Procedures",
-			"type)",
-			");",
-			"price",
-			", ,",
-			"INFU",
-			"CHLOR",
-			"\",,",
-			",,)",
-			",,\"",
-			" \"",
-			"`\",,",
-			",,`,",
-			",\"\"\"\"",
-			"(\",\"\"\"\",",
-			"\"insert",
-			",",
-			"(\"\"\"\",",
-			"(,",
-			"(\"",
-			"\"INSERT",
-			";"
+			"What"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -694,8 +713,36 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4163,
+								4163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -756,12 +803,176 @@
 		"selected_items":
 		[
 			[
-				"homec",
+				"users/ed",
+				"resources\\views\\users\\edit.blade.php"
+			],
+			[
+				"roles/ed",
+				"resources\\views\\roles\\edit.blade.php"
+			],
+			[
+				"users/crea",
+				"resources\\views\\users\\create.blade.php"
+			],
+			[
+				"roles/cre",
+				"resources\\views\\roles\\create.blade.php"
+			],
+			[
+				"userc",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"dash",
+				"resources\\views\\static\\dashboard.blade.php"
+			],
+			[
+				"roles/inde",
+				"resources\\views\\roles\\index.blade.php"
+			],
+			[
+				"role",
+				"app\\Role.php"
+			],
+			[
+				"roles/sho",
+				"resources\\views\\roles\\show.blade.php"
+			],
+			[
+				"roles/edi",
+				"resources\\views\\roles\\edit.blade.php"
+			],
+			[
+				"role/sho",
+				"resources\\views\\roles\\show.blade.php"
+			],
+			[
+				"users/edi",
+				"resources\\views\\users\\edit.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\users\\create.blade.php"
+			],
+			[
+				"show",
+				"resources\\views\\users\\show.blade.php"
+			],
+			[
+				"users/inde",
+				"resources\\views\\users\\index.blade.php"
+			],
+			[
+				"delete",
+				"resources\\views\\users\\delete.blade.php"
+			],
+			[
+				"index",
+				"resources\\views\\users\\index.blade.php"
+			],
+			[
+				"list.bl",
+				"resources\\views\\users\\list.blade.php"
+			],
+			[
+				"dashboar",
+				"resources\\views\\static\\dashboard.blade.php"
+			],
+			[
+				"list.b",
+				"resources\\views\\users\\list.blade.php"
+			],
+			[
+				"edit.b",
+				"resources\\views\\users\\edit.blade.php"
+			],
+			[
+				"createusersta",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"auth/cha",
+				"resources\\views\\auth\\change.blade.php"
+			],
+			[
+				"home",
 				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"login",
+				"app\\Http\\Controllers\\Auth\\LoginController.php"
+			],
+			[
+				"web.php",
+				"routes\\web.php"
+			],
+			[
+				"edit",
+				"resources\\views\\users\\edit.blade.php"
+			],
+			[
+				"static/das",
+				"resources\\views\\static\\dashboard.blade.php"
+			],
+			[
+				"hom",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"admin",
+				"resources\\views\\layouts\\admin.blade.php"
+			],
+			[
+				"admin.bl",
+				"resources\\views\\layouts\\admin.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"index.bla",
+				"resources\\views\\users\\index.blade.php"
+			],
+			[
+				"glue",
+				"app\\terminal.glue"
+			],
+			[
+				"access_",
+				"app\\Access_User.php"
+			],
+			[
+				"edit.bla",
+				"resources\\views\\users\\edit.blade.php"
 			],
 			[
 				"userco",
 				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"admin.bla",
+				"resources\\views\\layouts\\admin.blade.php"
+			],
+			[
+				"layout",
+				"vendor\\filp\\whoops\\src\\Whoops\\Resources\\views\\layout.html.php"
+			],
+			[
+				"create.bl",
+				"resources\\views\\users\\create.blade.php"
+			],
+			[
+				"web.",
+				"routes\\web.php"
+			],
+			[
+				"homec",
+				"app\\Http\\Controllers\\HomeController.php"
 			],
 			[
 				"userstab",
@@ -792,18 +1003,6 @@
 				"routes\\web.php"
 			],
 			[
-				"admin",
-				"resources\\views\\layouts\\admin.blade.php"
-			],
-			[
-				"index",
-				"resources\\views\\users\\index.blade.php"
-			],
-			[
-				"login",
-				"app\\Http\\Controllers\\Auth\\LoginController.php"
-			],
-			[
 				"home.b",
 				"resources\\views\\home.blade.php"
 			],
@@ -816,16 +1015,8 @@
 				".env"
 			],
 			[
-				"dash",
-				"resources\\views\\dashboard.blade.php"
-			],
-			[
 				"app.b",
 				"resources\\views\\layouts\\app.blade.php"
-			],
-			[
-				"home",
-				"resources\\views\\home.blade.php"
 			],
 			[
 				"app.bl",
@@ -904,20 +1095,8 @@
 				"app\\Http\\Controllers\\PatientController.php"
 			],
 			[
-				"show",
-				"resources\\views\\patients\\show.blade.php"
-			],
-			[
 				"patientc",
 				"app\\Http\\Controllers\\PatientController.php"
-			],
-			[
-				"user",
-				"app\\Http\\Controllers\\UserController.php"
-			],
-			[
-				".env",
-				".env"
 			],
 			[
 				"reports/inde",
@@ -942,10 +1121,6 @@
 			[
 				"reports/index",
 				"resources\\views\\reports\\index.blade.php"
-			],
-			[
-				"create",
-				"resources\\views\\patients\\create.blade.php"
 			],
 			[
 				"",

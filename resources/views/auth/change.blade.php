@@ -8,6 +8,10 @@
                 <div class="panel-heading danger">Please change your password</div>
 
                 <div class="panel-body">
+                    <div class="alert alert-danger">
+                        <strong>HOLD ON!</strong> You need to create a new password.
+                    </div>
+
                     <form class="form-horizontal" method="POST" action="{{ url('users') }}/{{ $user->id  }}">
                         {{ csrf_field() }}
                         <input type="hidden" name="user_id" value="{{ $user->id }}">

@@ -2,7 +2,7 @@
             @section('content')
             <div class="row">
                 <div class="col-lg-12">
-                    <h3 class="page-header">{{ $user->firstname.' '.$user->surname }} Details</h3>
+                    <h3 class="page-header">{{ $role->name }} Details</h3>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
@@ -13,36 +13,32 @@
                     <div class="col-lg-6 col-md-6">
                         <table class="table">
                             <tr>
-                                <td><strong>First Name</strong></td>
-                                <td>{{ $user->firstname }}</td>
+                                <td><strong>ID</strong></td>
+                                <td>{{ $role->id }}</td>
                             </tr>
                             <tr>
-                                <td><strong>Middle Name</strong></td>
-                                <td>{{ $user->secondname }}</td>
+                                <td><strong>Role</strong></td>
+                                <td>{{ $role->name }}</td>
                             </tr>
                             <tr>
-                                <td><strong>Last Name</strong></td>
-                                <td>{{ $user->surname }}</td>
+                                <td><strong>Description</strong></td>
+                                <td>{{ $role->description }}</td>
                             </tr>
                             <tr>
-                                <td><strong>Email</strong></td>
-                                <td><a href="mailto:{{ $user->email }}">{{ $user->email }}</a></td>
+                                <td><strong>Level</strong></td>
+                                <td>{{ $role->level }}</td>
                             </tr>
                             <tr>
-                                <td><strong>Username</strong></td>
-                                <td>{{ $user->username }}</td>
+                                <td><strong>Created</strong></td>
+                                <td>{{ $role->created_at->format('d - M, Y') }}</td>
                             </tr>
                             <tr>
-                                <td><strong>Password</strong></td>
-                                @if($user->status == 0)
-                                    <td>NOT CHANGED</td>
-                                @else
-                                    <td>CHANGED</td>
-                                @endif
+                                <td><strong>Updated</strong></td>
+                                <td>{{ $role->updated_at->format('d - M, Y') }}</td>
                             </tr>
                             <tr>
-                                <td><a href="{{ url('users/'.$user->id.'/edit') }}" class="btn btn-info" role="link">Edit User</a></td>
-                                <form method="post" action="{{ url('/users/'.$user->id) }}">
+                                <td><a href="{{ url('roles/'.$role->id.'/edit') }}" class="btn btn-info" role="link">Edit Role</a></td>
+                                <form method="post" action="{{ url('/roles/'.$role->id) }}">
                                     {{ csrf_field() }}
                                     {{ method_field('DELETE') }}
                                     <td>
