@@ -54,6 +54,26 @@
                     </div>
                 </div>
                 <!-- /.col-lg-4 -->
+                <div class="row">
+                <div class="col-lg-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Manage Students
+                        </div>
+                        <div class="panel-body">
+                            <ul>
+                                <li><a href="{{ url('/students/create') }}">Add a new Student</a></li>
+                                <li><a href="{{ url('/students') }}">List Students</a></li>
+                                <li><a href="{{ url('/students/list') }}">Activate Students</a></li>
+                                <li><a href="{{ url('/students/delete') }}">Delete Students</a></li>
+                            </ul>
+                        </div>
+                        <div class="panel-footer">
+                            Users
+                        </div>
+                    </div>
+                </div>
+                <!-- /.col-lg-4 -->
             </div>
             <!-- /.row -->
 

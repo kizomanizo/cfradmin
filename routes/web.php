@@ -36,3 +36,4 @@ Route::get('roles/deleted', 'roleController@deleted')->name('roles_deleted');
 Route::get('/roles/{id}/recover', 'RoleController@recover')->name('role_recover');
 Route::resource('users', 'UserController');
 Route::resource('roles', 'RoleController');
+Route::resource('students', 'StudentController');
